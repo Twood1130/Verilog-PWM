@@ -6,6 +6,5 @@ pwm.v: A simple module used to establish a PWM output on a GPIO pin. To use set 
       The duty cycle is a 6 bit precision input, and can be changed on the fly.
       
 usd_sensor.v: A module for interfacing with a HC_SRO4 Ultrasonic distance sensor. The current version requires an external trigger to measure distance.
-              module is untested as of 4/12/18.
               
               
